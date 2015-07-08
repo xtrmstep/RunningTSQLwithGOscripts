@@ -61,6 +61,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
     <Compile Include="ResourceReader.cs" />
+    <Compile Include="SqlRuner.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
